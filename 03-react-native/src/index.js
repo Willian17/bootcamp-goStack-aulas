@@ -1,20 +1,24 @@
-import React from 'react'
+import React , {useEffect, useState} from 'react'
 import {View , Text, StyleSheet} from 'react-native'
 import {StatusBar} from 'expo-status-bar'
 
-//Não possuem valor semântico(significado)
-// Não possui estilização própria
-// todos componentes possuem por padrão 'display: flex'
+import api from './services/api'
 
-// View: div, footer, header, main, aside, section
-// Text: p, span, strong, h1, h2, h3
 
 export default  function App() {
+    const [projects , setProjects] = useState([])
+
+    useEffect(()=>{
+        api.get("projects").then(response => {
+            console.log(response.data)
+            setProjects(response.data)
+        })
+    } , [])
     return (
     <>
         <StatusBar  style="light"/>
         <View style={styles.container}>
-            <Text style={styles.title}>Hello World</Text>
+    {projects.map(project => <Text key={project.id} style={styles.title}>{project.title}</Text>)}
         </View>
     </>
     )
