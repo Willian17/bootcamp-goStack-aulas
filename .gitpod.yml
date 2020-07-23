@@ -1,3 +1,0 @@
-tasks:
-  - init: 'cd 03-react-native && npm install && npm install -g expo-cli'
-    command: 'npm start'
