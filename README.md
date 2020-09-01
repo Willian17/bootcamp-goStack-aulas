@@ -12,6 +12,8 @@
 - [04 - Fundamentos TypeScript](https://github.com/Willian17/aulas/tree/master/04-typeScript) 🚀 Done :heavy_check_mark:
 - [05 - Fundamentos do Node.js](https://github.com/Willian17/aulas/tree/master/06-iniciando-backend)🚀 Done :heavy_check_mark:
 - [06 - Back-end do app](https://github.com/Willian17/aulas/tree/master/06-iniciando-backend)🚀 Done :heavy_check_mark:
-- [07- Fundamentos do ReactJS]() :construction: In progress.. :construction:
+- [07 - Fundamentos do ReactJS]() :construction: In progress.. :construction:
+- [07 - Front-end Web do app]() :construction: In progress.. :construction:
 - [07 - Fundamentos do React Native]() :construction: In progress.. :construction:
+- [08 - Front-end mobile do app]() :construction: In progress.. :construction:
 
