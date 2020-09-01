@@ -11,7 +11,6 @@
 - [03 - Conceitos do React Native](https://github.com/Willian17/aulas/tree/master/03-react-native) 🚀 Done :heavy_check_mark:
 - [04 - Fundamentos TypeScript](https://github.com/Willian17/aulas/tree/master/04-typeScript) 🚀 Done :heavy_check_mark:
 - [05 - Fundamentos do Node.js](https://github.com/Willian17/aulas/tree/master/06-iniciando-backend)🚀 Done :heavy_check_mark:
-- [06 - Banco de dados e upload de arquivos no Node.js]() :construction: In progress.. :construction:
-- [07 - Fundamentos do ReactJS]() :construction: In progress.. :construction:
-- [08 - Fundamentos do React Native]() :construction: In progress.. :construction:
+- [06 - Fundamentos do ReactJS]() :construction: In progress.. :construction:
+- [07 - Fundamentos do React Native]() :construction: In progress.. :construction:
 
