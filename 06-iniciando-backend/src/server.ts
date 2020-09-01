@@ -10,4 +10,4 @@ app.use(express.json());
 app.use(routes);
 
 const porta = 3333
-app.listen(porta, () => console.log(`Server listening of port ${porta}!`));
+app.listen(porta, () => console.log(`🚀️ Server listening of port ${porta}!`));
